@@ -1,0 +1,9 @@
+[17:34:55.152][CONSTRUCT][CLIENT][INFO] Starting building internal Registries
+[17:34:55.413][CONSTRUCT][CLIENT][INFO] The following mods have explicit CraftTweaker support:
+'crafttweaker' at version '7.1.0.307'
+'immersiveengineering' at version '1.16.5-5.0.0-135'
+'immersivepetroleum' at version '3.3.0-4'
+'tconstruct' at version '3.0.4.171'
+[17:34:55.822][CONSTRUCT][CLIENT][INFO] Completed building internal Registries
+[17:35:05.879][COMMON_SETUP][CLIENT][INFO] Started loading Scripts for Loader 'setupCommon'!
+[17:35:06.378][COMMON_SETUP][CLIENT][INFO] Finished loading Scripts!

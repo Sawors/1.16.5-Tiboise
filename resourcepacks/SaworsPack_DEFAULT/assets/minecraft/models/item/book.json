@@ -1,0 +1,7 @@
+{
+  "credit": "Made_by_Sawors",
+  "parent": "item/_book",
+  "textures": {
+    "0": "item/book"
+  }
+}
