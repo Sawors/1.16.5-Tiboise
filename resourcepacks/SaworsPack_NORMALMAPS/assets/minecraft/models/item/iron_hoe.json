@@ -1,6 +1,0 @@
-{
-  "parent": "item/_hoe",
-  "textures": {
-    "layer0": "item/iron_hoe"
-  }
-}

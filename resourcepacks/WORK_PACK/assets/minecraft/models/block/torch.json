@@ -1,8 +1,0 @@
-{
-  "credit": "Made_by_Sawors",
-  "parent": "block/_torch",
-  "textures": {
-    "torch": "block/torch",
-    "flame": "block/torch_flame"
-  }
-}

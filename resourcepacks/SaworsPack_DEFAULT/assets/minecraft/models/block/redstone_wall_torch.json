@@ -1,8 +1,0 @@
-{
-  "credit": "Made_by_Sawors",
-  "parent": "minecraft:block/torch_wall",
-  "textures": {
-    "torch": "block/redstone_torch",
-    "flame": "block/redstone_flame"
-  }
-}

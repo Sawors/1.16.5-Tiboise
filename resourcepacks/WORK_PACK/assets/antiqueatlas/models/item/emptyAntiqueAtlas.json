@@ -1,5 +1,0 @@
-{
-    "parent": "minecraft:item/_book",
-    "textures": {
-        "0": "antiqueatlas:items/empty_antique_atlas"}
-}
