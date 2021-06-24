@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "mob": ["minecraft:slime", "minecraft:creeper", "minecraft:zombie_villager", "minecraft:skeleton", "minecraft:zombie", "minecraft:drowned", "minecraft:husk", "minecraft:stray", "minecraft:guardian", "minecraft:elder_guardian", "minecraft:witch", "minecraft:pillager", "minecraft:phantom", "minecraft:enderman", "minecraft:wither"],
+    "dimension": "minecraft:overworld",
+    "result": "deny"
+  },
+  {
+	"mob": "minecraft:experience_orb",
+	"onjoin": true,
+	"result": "deny"
+  },
+  {
+    "minheight": 64,
+	"dimension": "minecraft:overworld",
+    "mob": "minecraft:spider",
+	"mincount": {
+      "amount": 20,
+      "mob": "minecraft:spider",
+      "perchunk": true
+    },
+    "result": "deny"
+  }
+]
