@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "byg:block/fairy_slipper",
+    "particle": "byg:block/fairy_slipper"
+  }
+}

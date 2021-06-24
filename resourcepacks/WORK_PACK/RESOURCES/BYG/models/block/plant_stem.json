@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "byg:block/plant_stem",
+    "particle": "byg:block/plant_stem"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "credit": "Made_by_Sawors",
+    "textures": {
+    "particle": "minecraft:block/orchid_stem"
+  },
+  "ambientoccluion": false,
+  "display": {
+    "ground": {
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "translation": [
+        0,
+        0,
+        -4
+      ]
+    }
+  }
+}

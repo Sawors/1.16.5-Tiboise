@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "byg:block/black_puff",
+    "particle": "byg:block/black_puff"
+  }
+}

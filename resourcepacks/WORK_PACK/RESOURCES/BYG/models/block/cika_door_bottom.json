@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_bottom",
+  "textures": {
+    "bottom": "byg:block/cika_door_bottom",
+    "top": "byg:block/cika_door_top"
+  }
+}

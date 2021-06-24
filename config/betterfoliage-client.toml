@@ -1,4 +1,4 @@
-enabled = true
+enabled = false
 nVidia = true
 
 [leaves]
@@ -22,17 +22,17 @@ nVidia = true
 	#Range: 0.5 ~ 1.5
 	size = 1.0
 	snowEnabled = true
-	shaderWind = false
+	shaderWind = true
 	#Range: 0.1 ~ 2.5
 	heightMax = 0.8
-	useGenerated = false
+	useGenerated = true
 	enabled = true
 	#Range: 0.0 ~ 0.4
 	hOffset = 0.2
 	#Range: 0.1 ~ 2.5
 	heightMin = 0.1
 	#Range: 0 ~ 64
-	population = 24
+	population = 32
 
 [connectedGrass]
 	snowEnabled = false

@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "byg:block/rocky_stone",
+    "particle": "byg:block/rocky_stone"
+  }
+}

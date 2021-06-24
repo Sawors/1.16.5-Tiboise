@@ -1,0 +1,7 @@
+{
+  "credit": "Made_by_Sawors",
+  "parent": "block/_orchid",
+  "textures": {
+    "flower": "minecraft:block/orchid_flower_blue"
+  }
+}

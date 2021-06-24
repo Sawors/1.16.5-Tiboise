@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "byg:block/magenta_tulip",
+    "particle": "byg:block/magenta_tulip"
+  }
+}

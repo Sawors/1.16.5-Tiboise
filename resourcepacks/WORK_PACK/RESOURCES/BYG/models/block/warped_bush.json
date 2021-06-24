@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "byg:block/warped_bush",
+    "particle": "byg:block/warped_bush"
+  }
+}

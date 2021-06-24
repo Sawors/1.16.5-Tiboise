@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "byg:block/baobab_planks",
+    "particle": "byg:block/baobab_planks"
+  }
+}

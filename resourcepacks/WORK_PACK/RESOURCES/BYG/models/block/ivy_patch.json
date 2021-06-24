@@ -1,0 +1,8 @@
+{
+  "parent": "byg:custom/ground_block_template",
+  "textures": {
+    "all": "byg:block/plant_ivy",
+    "particle": "byg:block/plant_ivy",
+    "plant_ivy": "byg:block/plant_ivy"
+  }
+}

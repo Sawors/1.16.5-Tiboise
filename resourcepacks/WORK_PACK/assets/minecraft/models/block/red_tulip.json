@@ -1,0 +1,8 @@
+{
+  "credit": "Made_by_Sawors",
+  "parent": "block/_tulip",
+  "textures": {
+    "1": "block/red_tulip",
+    "particle": "block/red_tulip"
+  }
+}

@@ -66,7 +66,7 @@
 	"Rat Fart Noises" = true
 	#The time in ticks(20 per second) it takes for milk to turn into cheese in a cauldron
 	#Range: 20 ~ 1000000
-	"Milk Curdling Time" = 150
+	"Milk Curdling Time" = 12000
 	#Neo-Ratlantean Max Health
 	#Range: 0.0 ~ 3.4028234663852886E38
 	"Neo-Ratlantean Max Health" = 300.0

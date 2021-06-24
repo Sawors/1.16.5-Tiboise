@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "byg:block/indigo_jacaranda_sapling",
+    "particle": "byg:block/indigo_jacaranda_sapling"
+  }
+}

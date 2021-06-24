@@ -1,0 +1,7 @@
+{
+  "parent": "block/carpet",
+  "textures": {
+    "particle": "byg:block/white_cherry_leaves",
+    "wool": "byg:block/white_cherry_leaves"
+  }
+}

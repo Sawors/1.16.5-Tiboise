@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "byg:block/jacaranda_log",
+    "particle": "byg:block/jacaranda_log"
+  }
+}

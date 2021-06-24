@@ -132,7 +132,7 @@
 		" Default is 3" = 3
 
 [horse]
-	"Allow Genetic horses to continue to spawn/exist:" = true
+	"Allow Genetic horses to continue to spawn/exist:" = false
 	"Allow vanilla minecraft Horses to spawn/exist:" = false
 	#Range: > 1000
 	"How many ticks it takes for a horse to give birth, 24000 = 1 Minecraft Day:" = 24000

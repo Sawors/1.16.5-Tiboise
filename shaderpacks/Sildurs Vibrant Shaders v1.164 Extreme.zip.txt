@@ -1,16 +1,16 @@
-#Sun Apr 25 14:16:57 CEST 2021
-Bloom=false
+#Sat Jun 05 16:46:28 CEST 2021
+bloom_strength=0.5
+Cloud_reflection=false
 Colorboost=0.04
-Fog=false
-Godrays=false
 MB_strength=0.008
 Moonlight=0.0015
 shadowMapResolution=1024
+uFogDensity=80.0
 Waving_Entities=false
 Waving_Fire=false
 Waving_Grass=false
 Waving_Lava=false
-Waving_Leaves=false
 Waving_Lilypads=false
 Waving_Vines=false
 Waving_Water=false
+wFogDensity=200.0

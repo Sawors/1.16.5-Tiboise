@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "byg:block/cika_planks",
+    "particle": "byg:block/cika_planks"
+  }
+}

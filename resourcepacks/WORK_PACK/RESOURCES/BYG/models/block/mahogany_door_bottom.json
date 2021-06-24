@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_bottom",
+  "textures": {
+    "bottom": "byg:block/mahogany_door_bottom",
+    "top": "byg:block/mahogany_door_top"
+  }
+}
