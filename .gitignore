@@ -13,4 +13,4 @@ servers.dat
 usercache.json
 usernamecache.json
 .mixin.out/audit/mixin_implementation_report.csv
-
+resourcepacks/*
