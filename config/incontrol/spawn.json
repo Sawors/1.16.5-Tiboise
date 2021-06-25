@@ -14,7 +14,7 @@
     "mob": "minecraft:spider",
 	"mincount": {
       "amount": 6,
-      "mob": "minecraft:spider",
+      "mob": "minecraft:spider"
     },
     "result": "deny"
   }
