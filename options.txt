@@ -33,7 +33,7 @@ graphicsMode:1
 ao:2
 biomeBlendRadius:7
 renderClouds:false
-resourcePacks:["vanilla","mod_resources","inspirations:config_resources","quark:emote_resources","file/WORK_PACK"]
+resourcePacks:["vanilla","mod_resources","inspirations:config_resources","quark:emote_resources"]
 incompatibleResourcePacks:["inspirations:config_resources","quark:emote_resources"]
 lastServer:
 lang:en_us
@@ -106,7 +106,7 @@ key_key.village_employment.ravager_forward_control:key.keyboard.w
 key_key.village_employment.ravager_backward_control:key.keyboard.s
 key_Reload Menu | CTRL + ALT + :key.keyboard.r
 key_Toggle Customization Overlay | CTRL + ALT + :key.keyboard.unknown
-key_key.carry.desc:key.keyboard.left.control
+key_key.carry.desc:key.keyboard.left.alt
 key_key.immersivepetroleum.projector.flip:key.keyboard.m
 key_key.immersiveengineering.magnetEquip:key.keyboard.s
 key_key.immersiveengineering.railgunZoom:key.mouse.middle
@@ -130,10 +130,15 @@ key_key.hide_icons:key.keyboard.h
 key_key.voice_chat:key.keyboard.v
 key_key.voice_chat_settings:key.keyboard.unknown
 key_key.voice_chat_group:key.keyboard.g
-key_key.astikorcarts.desc:key.keyboard.r
 key_key.curios.open.desc:key.keyboard.g
+key_key.astikorcarts.desc:key.keyboard.r
 key_key.next_image:key.keyboard.down
 key_key.previous_image:key.keyboard.up
+key_quark.keybind.camera_mode:key.keyboard.f12
+key_key.pickup.item:key.keyboard.unknown
+key_quark.keybind.transfer_insert:key.keyboard.unknown
+key_quark.keybind.transfer_extract:key.keyboard.unknown
+key_quark.keybind.shift_lock:key.keyboard.unknown
 key_quark.emote.no:key.keyboard.unknown
 key_quark.emote.yes:key.keyboard.unknown
 key_quark.emote.wave:key.keyboard.unknown
@@ -152,20 +157,15 @@ key_quark.keybind.patreon_emote.dab:key.keyboard.unknown
 key_quark.keybind.patreon_emote.jet:key.keyboard.unknown
 key_quark.keybind.patreon_emote.exorcist:key.keyboard.unknown
 key_quark.keybind.patreon_emote.zombie:key.keyboard.unknown
-key_quark.keybind.change_hotbar:key.keyboard.z
-key_quark.keybind.lock_rotation:key.keyboard.k
-key_key.pickup.item:key.keyboard.unknown
-key_quark.keybind.sort_player:key.keyboard.unknown
-key_quark.keybind.sort_container:key.keyboard.unknown
-key_quark.keybind.back:key.mouse.4
-key_quark.keybind.camera_mode:key.keyboard.f12
-key_quark.keybind.transfer_insert:key.keyboard.unknown
-key_quark.keybind.transfer_extract:key.keyboard.unknown
-key_quark.keybind.shift_lock:key.keyboard.unknown
 key_key.securitycraft.cameraZoomIn:key.keyboard.equal
 key_key.securitycraft.cameraZoomOut:key.keyboard.minus
 key_key.securitycraft.cameraEmitRedstone:key.keyboard.r
 key_key.securitycraft.cameraActivateNightVision:key.keyboard.n
+key_quark.keybind.sort_player:key.keyboard.unknown
+key_quark.keybind.sort_container:key.keyboard.unknown
+key_quark.keybind.back:key.mouse.4
+key_quark.keybind.lock_rotation:key.keyboard.k
+key_quark.keybind.change_hotbar:key.keyboard.z
 key_servertabinfo.keys.show:key.keyboard.tab:CONTROL
 key_key.toolbelt.open:key.keyboard.r
 key_key.toolbelt.cycle.left:key.keyboard.unknown

@@ -66,7 +66,7 @@
 	"Rat Fart Noises" = true
 	#The time in ticks(20 per second) it takes for milk to turn into cheese in a cauldron
 	#Range: 20 ~ 1000000
-	"Milk Curdling Time" = 12000
+	"Milk Curdling Time" = 150
 	#Neo-Ratlantean Max Health
 	#Range: 0.0 ~ 3.4028234663852886E38
 	"Neo-Ratlantean Max Health" = 300.0
@@ -79,7 +79,7 @@
 	"Pied Piper Spawn In Overworld Only" = true
 	#A seperate random roll that only spawns rats if a one-out-of-X chance, x being this number. raise this number to make them more rare.
 	#Range: > 0
-	"Rat Spawn Decrease" = 5
+	"Rat Spawn Decrease" = 8
 	#True if tamed rats will destroy crops when they harvest them
 	"Rats Break Crops on Harvest" = true
 	#Flying Dutchrat Max Health
@@ -151,5 +151,5 @@
 	"Default Rat Radius" = 16
 	#The weight of rats in vanilla's spawn rate
 	#Range: 1 ~ 300
-	"Rat Spawn Weight" = 20
+	"Rat Spawn Weight" = 40
 

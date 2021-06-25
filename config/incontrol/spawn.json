@@ -10,13 +10,11 @@
 	"result": "deny"
   },
   {
-    "minheight": 64,
-	"dimension": "minecraft:overworld",
+    "minheight": 48,
     "mob": "minecraft:spider",
 	"mincount": {
-      "amount": 20,
+      "amount": 6,
       "mob": "minecraft:spider",
-      "perchunk": true
     },
     "result": "deny"
   }
