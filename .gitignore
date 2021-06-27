@@ -14,3 +14,11 @@ usercache.json
 usernamecache.json
 .mixin.out/audit/mixin_implementation_report.csv
 resourcepacks/*
+config/jei/bookmarks.ini
+config/voicechat-client.toml
+config/voicechat-client.toml
+options.txt
+optionsof.txt
+optionsshader.txt
+config/incontrol/*
+config/fxcontrol/*

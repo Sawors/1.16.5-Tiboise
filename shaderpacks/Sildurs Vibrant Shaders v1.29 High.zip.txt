@@ -1,0 +1,9 @@
+#Sun Jun 27 00:53:05 CEST 2021
+Clouds=2
+Depth_of_Field=true
+Distance_Blur=true
+Dof_Distance_View=512
+DoF_Strength=20
+morningFog=true
+Waving_Lanterns=false
+Waving_Lilypads=false
