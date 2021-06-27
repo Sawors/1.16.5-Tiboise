@@ -23,3 +23,6 @@ optionsof.txt
 optionsshader.txt
 config/incontrol/*
 config/fxcontrol/*
+config/voicechat-client.toml
+config/voicechat/player-volumes.properties
+optionsshaders.txt
