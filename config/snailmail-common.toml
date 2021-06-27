@@ -1,0 +1,5 @@
+#Block snailboxes from being opened by non-owners
+lock_boxes = true
+#Protect snailboxes from being destroyed by non-owners
+protect_box_destroy = true
+
