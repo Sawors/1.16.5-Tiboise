@@ -17,6 +17,7 @@ resourcepacks/*
 config/jei/bookmarks.ini
 config/voicechat-client.toml
 config/voicechat-client.toml
+config/voicechat/*
 options.txt
 optionsof.txt
 optionsshader.txt
