@@ -6,7 +6,7 @@
 	[SETTINGS.Tanks]
 		#Sets tank capacity : 1 Bucket = 1000mB - [Max: 2147483647mB]
 		#Range: > 1000
-		tank_capacity = 8000
+		tank_capacity = 12000
 		#Tanks destroyed by explosions will retain their fluids
 		retain_fluid_after_explosions = true
 
