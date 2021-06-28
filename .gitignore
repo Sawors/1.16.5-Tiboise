@@ -26,3 +26,5 @@ config/fxcontrol/*
 config/voicechat-client.toml
 config/voicechat/player-volumes.properties
 optionsshaders.txt
+config/voicechat-client.toml
+config/voicechat/player-volumes.properties

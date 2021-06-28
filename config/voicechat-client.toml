@@ -6,7 +6,7 @@ microphone_activation_type = "VOICE"
 voice_activation_threshold = -49.93409090909091
 #The voice chat volume
 #Range: 0.0 ~ 2.0
-voice_chat_volume = 1.0
+voice_chat_volume = 1.5022727272727272
 #The voice chat microphone amplification
 #Range: 0.0 ~ 4.0
 microphone_amplification = 1.0
@@ -26,7 +26,7 @@ microphone = ""
 #Empty for default device
 speaker = ""
 #If the microphone is muted (only when using voice activation)
-muted = true
+muted = false
 #If the voice chat is disabled (sound and microphone off)
 disabled = false
 #If the voice chat should use semi 3D stereo sound
