@@ -1,9 +1,9 @@
-#Mon Jun 28 15:09:53 CEST 2021
-Clouds=2
+#Tue Jun 29 20:29:51 CEST 2021
 Depth_of_Field=true
 Distance_Blur=true
 Dof_Distance_View=512
 DoF_Strength=20
 morningFog=true
+uFogDensity=15.0
 Waving_Lanterns=false
 Waving_Lilypads=false

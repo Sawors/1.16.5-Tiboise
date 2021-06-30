@@ -29,3 +29,4 @@ optionsshaders.txt
 config/voicechat-client.toml
 config/voicechat/player-volumes.properties
 config/voicechat-client.toml
+config/craftpresence.properties
