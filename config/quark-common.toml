@@ -100,7 +100,7 @@
 	"Vertical Slabs" = false
 	"Nether Brick Fence Gate" = true
 	"Lit Lamp" = true
-	"Vertical Planks" = true
+	"Vertical Planks" = false
 	"Tie Leads To Fences" = true
 	"Shallow Dirt" = true
 	"More Stone Variants" = true
