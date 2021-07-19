@@ -26,3 +26,4 @@ config/voicechat/player-volumes.properties
 optionsshaders.txt
 config/craftpresence.properties
 etched-sounds/*
+config/camera-client.toml
