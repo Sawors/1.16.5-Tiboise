@@ -29,3 +29,4 @@ etched-sounds/*
 config/camera-client.toml
 config/voicechat-client.toml
 .replay_cache/*
+replay_recordings/*
