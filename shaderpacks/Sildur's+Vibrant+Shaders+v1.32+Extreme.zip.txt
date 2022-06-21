@@ -1,0 +1,6 @@
+#Sun Mar 20 16:48:39 CET 2022
+Waving_Lanterns=false
+Waving_Entities=false
+Waving_Lava=false
+nMap=1
+Waving_Vines=false
