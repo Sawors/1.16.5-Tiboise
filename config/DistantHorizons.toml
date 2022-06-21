@@ -18,7 +18,7 @@ optionsButton = true
 			# BLOCK: render 256 LODs for each Chunk (width of one block). 
 			#
 			# Lowest Quality: CHUNK Highest Quality: BLOCK
-			drawResolution = "BLOCK"
+			drawResolution = "HALF_CHUNK"
 			# The radius of the mod's render distance. (measured in chunks) 
 			#
 			lodChunkRenderDistance = 128
@@ -76,7 +76,7 @@ optionsButton = true
 			# FOG_DISABLED: Always draw fast fog on the LODs 
 			#
 			# Disabling fog will improve GPU performance.
-			fogDrawMode = "FOG_ENABLED"
+			fogDrawMode = "FOG_DISABLED"
 			# What color should fog use? 
 			#
 			# USE_WORLD_FOG_COLOR: Use the world's fog color. 
@@ -87,7 +87,7 @@ optionsButton = true
 			# If true disable Minecraft's fog. 
 			#
 			# Experimental! Mod support is not guarantee.
-			disableVanillaFog = true
+			disableVanillaFog = false
 
 			[client.graphics.fogQuality.advancedFog]
 				# Where should the far fog start? 
@@ -125,7 +125,7 @@ optionsButton = true
 				farFogType = "EXPONENTIAL_SQUARED"
 				# What is the fog density? 
 				#
-				farFogDensity = 2.5
+				farFogDensity = 2.0
 
 				[client.graphics.fogQuality.advancedFog.heightFog]
 					# How the height should effect the fog thickness combined with the normal function? 
@@ -258,7 +258,7 @@ optionsButton = true
 			#  with skylight value of 0 in dimensions that 
 			#  does not have a ceiling. 
 			#
-			enableCaveCulling = true
+			enableCaveCulling = false
 			# At what Y value should cave culling start? 
 			#
 			caveCullingHeight = 40
