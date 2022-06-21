@@ -33,3 +33,4 @@ replay_recordings/*
 servers.dat_old
 RunUpdate.bat
 hs_err_pid3544.log
+git-commitandpush.bat
